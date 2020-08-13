@@ -7,4 +7,5 @@ module.exports = function findItemsOver20(lists) {
 
     }
   }
+  return totalPty;
 }
